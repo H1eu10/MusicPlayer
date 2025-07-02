@@ -2,7 +2,7 @@
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
 
-const PLAYER_STORAGE_KEY = 'F8_PLAYER'
+const PLAYER_STORAGE_KEY = 'H1eu10'
 
 const player = $(".player");
 const cd = $(".cd");
